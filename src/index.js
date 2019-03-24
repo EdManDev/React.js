@@ -33,7 +33,4 @@ const Footer = () => <div className="footer"><p>© 2018 EdMan. All Rights Reserv
 
 const SomeText = () => <div className="sometext">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias nam vel fuga architecto consequatur distinctio eos. Autem aliquid natus adipisci aut architecto. Sapiente harum aliquam expedita distinctio, quasi dicta! Similique!</div>
 
-
-
-
 ReactDOM.render(<Container/>, document.getElementById("root"));
