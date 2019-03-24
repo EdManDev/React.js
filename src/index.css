@@ -24,21 +24,6 @@ Book{
   border-radius: 20px;
 }
 
-.footer{
-  background-color: #000000;
-  border-top: 4px solid #00ff00;
-  height: 200px;
-  position: relative;
-  z-index: 4;
-}
 
-.footer p{
-  text-align: center;
-  color: #555;
-  font-family: arial;
-  position: absolute;
-  bottom: 0px;
-  right: 0;
-  left: 0;
-  z-index: 4;
-}
+
+

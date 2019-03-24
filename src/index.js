@@ -1,6 +1,7 @@
 import  React from 'react';
 import ReactDOM from 'react-dom';
 import "./index.css";
+import "./footer.css";
 import img from "./LOGO EDMAN 2018 copy.png";
 
 function Container () {
@@ -9,7 +10,6 @@ function Container () {
       <Img1/>
       <Img2/>
       <Title/>
-      <Subtitle/>
       <Subtitle/>
       <SomeText/>
       <Footer/>
